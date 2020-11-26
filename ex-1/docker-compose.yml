@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+  nginx:
+    build: ./nginx/.
+    ports:
+      - "8080:80"
+    links:
+      - net
+      - java
+      - node
+
+  net:
+    image: lnicho/ow-my-aws:ex-1-net
+
+  java:
+    image: lnicho/ow-my-aws:ex-1-java
+
+  node:
+    image: lnicho/ow-my-aws:ex-1-node
