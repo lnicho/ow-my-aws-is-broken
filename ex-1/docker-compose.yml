@@ -10,10 +10,10 @@ services:
       - node
 
   net:
-    image: lnicho/ow-my-aws:ex-1-net
+    image: lnicho/ow-my-aws-is-broken:ex-1-net
 
   java:
-    image: lnicho/ow-my-aws:ex-1-java
+    image: lnicho/ow-my-aws-is-broken:ex-1-java
 
   node:
-    image: lnicho/ow-my-aws:ex-1-node
+    image: lnicho/ow-my-aws-is-broken:ex-1-node
