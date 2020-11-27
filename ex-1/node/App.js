@@ -3,7 +3,10 @@ const app = express()
 const port = 3000
 
 app.get('/', (req, res) => {
-  res.send('Hello from Node!')
+  console.log(`Received request ${req.method} ${req.originalUrl}`)
+  const response = 'Hello from Node!'
+  console.log(`Returning: ${response}`)
+  res.send(response)
 })
 
 app.listen(port, () => {
