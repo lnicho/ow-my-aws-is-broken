@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    data: 'classpath:data.sql'
+    driver-class-name: org.postgresql.Driver
+    hikari:
+      username: demouser
+      password: demopassword
+    initialization-mode: always
+    url: jdbc:postgresql://ow-my-aws-is-broken.c7hteahnusb4.us-east-1.rds.amazonaws.com:5432/postgres
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
