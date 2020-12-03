@@ -6,8 +6,7 @@ Explore the **full** stack of cloud development as we look at common architectur
 ## Who am I
 
 - [Solutions Architect - Software Engineering @ Slalom Build](https://www.linkedin.com/in/lnicho/)
-- 5 years experience ignoring documentation, mishandling AWS
-- Experience taking existing environments from an unknown state to a more or less known state
+- 5 years AWS experience
 - Certified AWS Solutions Architect Associate
 
 ## What we'll cover
