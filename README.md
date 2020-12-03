@@ -49,4 +49,4 @@ Explore the **full** stack of cloud development as we look at common architectur
 
 > In the interest of hyporcrisy, we're going to ignore the frontend and look at backing APIs and their implementations in AWS
 
-[Example 1](https://github.com/lnicho/ow-my-aws-is-broken/tree/main/ex-1#example-1-simple-docker-compose-on-ec2)
+# [Example 1](https://github.com/lnicho/ow-my-aws-is-broken/tree/main/ex-1#example-1-simple-docker-compose-on-ec2)
