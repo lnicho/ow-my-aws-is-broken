@@ -34,7 +34,7 @@ Explore the **full** stack of cloud development as we look at common architectur
 
 > Frontend, Backend, and Persistence. These were the ingredients chosen to create the perfect Full Stack Developer
 
-- I used to be a big fan of the [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap), but it leaves a big gap before you're truly effective
+- I used to be a big fan of the [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap#introduction), but it leaves a big gap before you're truly effective
 - Need to know how to write software **and** get it into an environment where someone can use it
 
 ## Goal : Autonomous Developers
