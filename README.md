@@ -37,4 +37,12 @@ Explore the **full** stack of cloud development and deployment as we look at com
 - I used to be a big fan of the [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap), but it leaves a big gap before you're truly effective
 - Need to know how to write software **and** get it into an environment where someone can use it
 
-## Goal
+## Goal : Autonomous Developers
+
+- Branch out and learn the Full Stack, including the infrastructure your code runs on
+- Nothing worse than hitting a wall with your code not working and handing it off to someone else to solve
+    - They don't have the context on what you built
+    - You don't have the context on how it's supposed to be wired up
+    - You're left sitting on your hands while you wait for them to catch up and _hopefully_ find a fix
+
+![You can do it!](https://i.pinimg.com/originals/11/f2/37/11f237c545ef6f9b046b30a83dd7f482.jpg)
