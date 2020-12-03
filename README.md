@@ -36,7 +36,7 @@ Explore the **full** stack of cloud development as we look at common architectur
 - I used to be a big fan of the [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap#introduction), but it leaves a big gap before you're truly effective
 - Need to know how to write software **and** get it into an environment where someone can use it
 
-## Goal : Autonomous Developers
+### Goal : Autonomous Developers
 
 - Branch out and learn the Full Stack, including the infrastructure your code runs on
 - Nothing worse than hitting a wall with your code not working and handing it off to someone else to solve
@@ -47,5 +47,23 @@ Explore the **full** stack of cloud development as we look at common architectur
 ![You can do it!](https://i.pinimg.com/originals/11/f2/37/11f237c545ef6f9b046b30a83dd7f482.jpg)
 
 > In the interest of hyporcrisy, we're going to ignore the frontend and look at backing APIs and their implementations in AWS
+
+### It's all plumbing
+
+![Random architecture diagram](https://labs.sogeti.com/wp-content/uploads/2020/05/Solution-Architecture.jpg)
+
+Things that are required for two services to talk to each other in AWS:
+- Networking
+- Configuration
+- Secrets
+- Permissions
+
+Things that aid in figuring out which one you messed up:
+- Logs
+    - Show you what your code did
+- Metrics
+    - Alerts you when things go wrong
+- Tracing
+    - Aid in figuring out which part of the pipeline failed
 
 # [Example 1](https://github.com/lnicho/ow-my-aws-is-broken/tree/main/ex-1#example-1-simple-docker-compose-on-ec2)
