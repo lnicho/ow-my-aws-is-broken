@@ -1,5 +1,5 @@
-# Ow! My AWS is Broken
-> Why your code doesn't run in the cloud
+# Ow! My AWS is Broken : Why your code doesn't run in the Cloud
+> Money goes in, Cloud comes out; you can't explain that.
 
 Explore the **full** stack of cloud development and deployment as we look at common architecture patterns, their implementation in AWS, and how you can mess it up.
 
@@ -27,3 +27,14 @@ Explore the **full** stack of cloud development and deployment as we look at com
 - SQS
 - SNS
 - DynamoDB
+
+## Debunking the "Full Stack" Developer
+
+![Full Stack Developer](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png)
+
+> Frontend, Backend, and Persistence. These were the ingredients chosen to create the perfect Full Stack Developer
+
+- I used to be a big fan of the [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap), but it leaves a big gap before you're truly effective
+- Need to know how to write software **and** get it into an environment where someone can use it
+
+## Goal
