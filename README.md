@@ -1,7 +1,7 @@
 # Ow! My AWS is Broken : Why your code doesn't run in the Cloud
 > Money goes in, Cloud comes out; you can't explain that.
 
-Explore the **full** stack of cloud development and deployment as we look at common architecture patterns, their implementation in AWS, and how you can mess it up.
+Explore the **full** stack of cloud development and deployment as we look at common architecture patterns, their implementation in AWS, and the various ways you can mess it up.
 
 ## Who am I
 
