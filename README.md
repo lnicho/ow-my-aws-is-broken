@@ -46,3 +46,5 @@ Explore the **full** stack of cloud development as we look at common architectur
     - You're left sitting on your hands while you wait for them to catch up and _hopefully_ find a fix
 
 ![You can do it!](https://i.pinimg.com/originals/11/f2/37/11f237c545ef6f9b046b30a83dd7f482.jpg)
+
+> In the interest of hyporcrisy, we're going to ignore the frontend and look at backing APIs and their implementations in AWS
